@@ -1,0 +1,31 @@
+﻿  Source.cpp
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(54): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(61): error C2131: выражение не определяется константой
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(61): note: сбой вызван чтением переменной вне срока ее существования
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(61): note: см. использование "n"
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(62): error C2131: выражение не определяется константой
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(62): note: сбой вызван чтением переменной вне срока ее существования
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(62): note: см. использование "n"
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(65): warning C4552: >>: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(68): warning C4552: >>: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(88): warning C4552: <<: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(91): error C2131: выражение не определяется константой
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(91): note: сбой вызван чтением переменной вне срока ее существования
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(91): note: см. использование "n"
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(92): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(94): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(96): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(98): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(102): warning C4552: <<: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(105): error C2131: выражение не определяется константой
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(105): note: сбой вызван чтением переменной вне срока ее существования
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(105): note: см. использование "n"
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(107): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(109): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(111): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(115): warning C4552: <<: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(118): error C2131: выражение не определяется константой
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(118): note: сбой вызван чтением переменной вне срока ее существования
+  c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(118): note: см. использование "n"
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(121): error C3863: тип массива "double [n]" является неназначаемым
+c:\users\selendireyko\desktop\численные методы\lab2\lab2.1\lab2.1\source.cpp(126): warning C4552: <<: оператор не имеет результата; требуется оператор с побочным действием
